@@ -30,15 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-| ![](https://github-readme-stats.vercel.app/api?username=miguelnsimoes&theme=dark&hide_border=false&include_all_commits=false&count_private=false) | ![](https://nirzak-streak-stats.vercel.app/?user=miguelnsimoes&theme=dark&hide_border=false) |
-|---|---|
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelnsimoes&theme=dark&hide_border=false&layout=compact)
-
----
-
 ## ✍️ Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
