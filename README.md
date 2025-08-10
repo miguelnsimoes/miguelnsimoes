@@ -10,7 +10,7 @@
 
 ---
 
-## 🌐 Socials
+## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-nazario-simoes)  
 
 ---
@@ -32,6 +32,7 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
 
+---
+## 💼 My Projects
 [![](https://visitcount.itsvg.in/api?id=miguelnsimoes&icon=5&color=0)](https://visitcount.itsvg.in)
