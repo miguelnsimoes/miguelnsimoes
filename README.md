@@ -6,8 +6,6 @@
 🛠️ **Software Developer Intern** at [Agência Massi](https://www.agenciamassi.com.br)  
 🚀 Passionate about creating **tech solutions for real-world problems**  
 📊 Interested in **AI**, **automation** and **data visualization**  
-🌍 English: **Upper Intermediate (B2)**  
-
 ---
 
 ## 🌐 Let's Connect
