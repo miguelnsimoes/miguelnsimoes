@@ -6,6 +6,7 @@
 🛠️ **Software Developer Intern** at [Agência Massi](https://www.agenciamassi.com.br)  
 🚀 Passionate about creating **tech solutions for real-world problems**  
 📊 Interested in **AI**, **automation** and **data visualization**  
+
 ---
 
 ## 🌐 Let's Connect
