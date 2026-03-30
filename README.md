@@ -1,6 +1,7 @@
 ## Hi, I'm Miguel ✨
 
 💻 **Software Engineering student** at Federal University of Technology – Paraná 
+
 🚀 Focused on **backend development**, **automation** and scalable systems  
 🤖 Interested in **AI**, **data processing** and **cloud infrastructure**  
 
