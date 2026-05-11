@@ -1,74 +1,61 @@
-## Hi, I'm Miguel ✨
-
-💻 **Software Engineering student** at Federal University of Technology – Paraná <br>
-🚀 Focused on **backend development**, **automation** and scalable systems <br>
-🤖 Interested in **AI**, **data processing** and **cloud infrastructure**
+<h3 align="left" style="background-color:#013220; padding: 10px; border-radius: 8px;">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=false&vCenter=false&width=900&lines=Hi%2C+I'm+Miguel;Software+Engineering+at+Federal+University+of+Technology+-+Parana;Focused+on+backend+development%2C+automation+and+scalable+systems;Interested+in+AI%2C+data+processing+and+cloud+infrastructure"
+    alt="Typing SVG"
+  />
+</h3>
 
 ---
 
 ## 🌐 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguel-nazario-simoes)
+
+<p align="left">
+  <a href="https://linkedin.com/in/miguel-nazario-simoes" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+</p>
 
 ---
 
-### 🛠️ Languages & Technologies
+## 🛠️ Languages and Tools
 
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
-<img align="left" alt="FastAPI" title="FastAPI" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-
-<img align="left" alt="Streamlit" title="Streamlit" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
-
-<img align="left" alt="Java" title="Java (OOP)" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-
-<img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-
-<img align="left" alt="PostgreSQL" title="Supabase (PostgreSQL)" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-
-<img align="left" alt="Selenium" title="Selenium" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" />
-
-<img align="left" alt="Docker" title="Docker" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-
-<img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-
-<img align="left" alt="DigitalOcean" title="DigitalOcean" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" />
-
-<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-<img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-
-<br/>
-<br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=react,tailwind,ts,python,fastapi,java,spring,postgresql,supabase,docker,git,github,linux"
+      alt="Languages and Tools"
+    />
+  </a>
+</p>
 
 ---
 
-### 📊 GitHub Statistics
+## 🤖 Currently Exploring
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=miguelnsimoes&show_icons=true&theme=tokyonight&include_all_commits=true" 
+- Backend Development with Java and Spring Boot
+- AI Applications with LangChain
+- Workflow Automation with n8n
+- Cloud Infrastructure and Docker
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=miguelnsimoes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+    alt="GitHub Stats"
   />
-
-  <img 
-    align="left" 
-    alt="Top Languages" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelnsimoes&theme=tokyonight&layout=compact&langs_count=8" 
+  <img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miguelnsimoes&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
   />
 </p>
+
+---
+
